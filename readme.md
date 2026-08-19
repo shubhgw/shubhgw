@@ -11,6 +11,7 @@
     alt="Tech Stack"
   />
 </p>
+
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
@@ -20,10 +21,6 @@
         width="100%"
       />
     </td>
-  </tr>
-</table>
-<table align="center" width="100%">
-  <tr>
     <td width="50%" align="center">
       <img
         src="https://github-readme-streak-stats-eight.vercel.app/?user=shubhgw&theme=tokyonight&hide_border=true"
@@ -33,6 +30,7 @@
     </td>
   </tr>
 </table>
+
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
@@ -51,6 +49,7 @@
     </td>
   </tr>
 </table>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shubhgw&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
