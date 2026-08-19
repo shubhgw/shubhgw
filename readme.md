@@ -60,9 +60,9 @@
 ## <a href="https://shubhgw.github.io/starter"> 🔗 LinkedIn  </a>
 ## <a href="https://shubhgw.github.io/starter"> 🔗 Instagram </a>
 ## <a href="https://shubhgw.github.io/starter"> 🔗 Discord </a>
-## <a href="https://shubhgw.github.io/starter"> 🔗 Twitter (X) </a>
+## <a href="https://shubhgw.github.io/starter"> 🔗 Twitter (X) </a> -->
 
 
 
-## ☠️ Projects | Contributions ⏬ -->
+## 🧑‍💻 Projects | Contributions ⏬ 
  
