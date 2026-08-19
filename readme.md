@@ -1,8 +1,6 @@
 
-<br>
-
 ># 🚀 Hii, I'm **Shubham G W**.
-## 🧑‍💻 I'm currently pursuing my **B.tech** degree in **Information Technology** at **Walchand** College of Engineering, Sangli.
+## 🧑‍💻 I'm currently pursuing my **B.tech** degree in **Information Technology** at **Walchand**      College of Engineering, Sangli.
 
 ## 🔗 Visit my <a href="https://shubhgw.github.io/starter"> **Portfolio** </a> for broader info about Me .
 
@@ -17,7 +15,7 @@
   <tr>
     <td width="50%" align="center">
       <img
-        src="https://github-stats-extended.vercel.app/api?username=shubhgw&show_icons=true&include_all_commits=true&theme=dark&hide_border=false&rank_icon=github"
+        src="https://github-stats-extended.vercel.app/api?username=shubhgw&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&rank_icon=github"
         alt="GitHub Stats"
         width="100%"
       />
@@ -28,7 +26,7 @@
   <tr>
     <td width="50%" align="center">
       <img
-        src="https://github-readme-streak-stats-eight.vercel.app/?user=shubhgw&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=shubhgw&theme=dark&hide_border=true"
         alt="GitHub Streak"
         width="100%"
       />
@@ -39,14 +37,14 @@
   <tr>
     <td width="50%" align="center">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhgw&theme=dark"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhgw&theme=tokyonight"
         alt="Languages by Repository"
         width="100%"
       />
     </td>
     <td width="50%" align="center">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubhgw&theme=dark"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubhgw&theme=tokyonight"
         alt="Languages by Commit"
         width="100%"
       />
