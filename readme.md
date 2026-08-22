@@ -1,9 +1,8 @@
+> # <a href="https://shubhgw.github.io/portfolioshubhgw" target="_blank" > 🚀 Hii, I'm **Shubham G W** </a>.
 
-># <a href="https://shubhgw.github.io/portfolioshubhgw" target="_blank" > 🚀 Hii, I'm **Shubham G W** </a>.
-##  I'm currently pursuing my **B.tech** degree in **Information Technology** at **Walchand** College of Engineering, Sangli.
+## I'm currently pursuing my **B.tech** degree in **Information Technology** at **Walchand** College of Engineering, Sangli.
 
 ## 🔗 Visit my <a href="https://shubhgw.github.io/portfolioshubhgw"> **Portfolio** </a> for more broader info about Me .
-
 
 <p align="center">
   <img
@@ -21,6 +20,8 @@
         width="100%"
       />
     </td>
+  </tr>
+  <tr>    
     <td width="50%" align="center">
       <img
         src="https://github-readme-streak-stats-eight.vercel.app/?user=shubhgw&theme=tokyonight&hide_border=true"
@@ -50,7 +51,6 @@
   </tr>
 </table>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shubhgw&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/shubhgw?label=Followers&style=flat" alt="Followers" />
@@ -62,7 +62,4 @@
 ## <a href="https://shubhgw.github.io/starter"> 🔗 Discord </a>
 ## <a href="https://shubhgw.github.io/starter"> 🔗 Twitter (X) </a> -->
 
-
-
-## 🧑‍💻 Projects | Contributions ⏬ 
- 
+## 🧑‍💻 Projects | Contributions | Activities ⏬
