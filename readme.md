@@ -1,4 +1,4 @@
-> # <a style="text-decoration:none" href="https://shubhgw.github.io/portfolioshubhgw" target="_blank" > 🚀 Hii, I'm **Shubham G W** </a>.
+> # <a href="https://shubhgw.github.io/portfolioshubhgw" style="text-decoration: none;" target="_blank" > 🚀 Hii, I'm **Shubham G W** </a>.
 
 ## I'm currently pursuing my **B.tech** degree in **Information Technology** at **Walchand** College of Engineering, Sangli.
 
