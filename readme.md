@@ -2,7 +2,7 @@
 
 ## I'm currently pursuing my **B.tech** degree in **Information Technology** at **Walchand** College of Engineering, Sangli.
 
-## 🔗 Visit my <a href="https://shubhgw.github.io/i"> **Portfolio** </a> for more broader info about Me .
+## 🔗 Visit my <a href="https://shubhgw.github.io/i"> **Portfolio** </a> for more info about Me .
 
 <p align="center">
   <img
@@ -57,9 +57,8 @@
 </p>
 
 ## 🌏 Social Media Links ⏬
-## <a href="https://shubhgw.github.io/starter"> 🔗 LinkedIn  </a>
-## <a href="https://shubhgw.github.io/starter"> 🔗 Instagram </a>
-## <a href="https://shubhgw.github.io/starter"> 🔗 Discord </a>
-## <a href="https://shubhgw.github.io/starter"> 🔗 Twitter (X) </a>
+## <a href="https://linkedin.com/in/shubhgw"> 🔗 LinkedIn  </a>
+
+## <a href="https://instagram.com/shubhgw"> 🔗 Instagram </a>
 
 ## 🧑‍💻 Projects | Contributions | Activities ⏬
